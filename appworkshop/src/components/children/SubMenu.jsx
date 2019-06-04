@@ -8,3 +8,5 @@ class SubMenu extends React.Component {
     </div>;
   }
 }
+
+export default SubMenu;
